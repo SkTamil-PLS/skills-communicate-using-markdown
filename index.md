@@ -5,4 +5,13 @@
 ##### This is a `<h5>` header which is close to smallest
 ###### This is a `<h6>` header which is the smallest
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+````javascript
+var myvar = "Hello World";
+````
+
+````javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+````
