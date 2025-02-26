@@ -4,3 +4,5 @@
 #### This is a `<h4>` header
 ##### This is a `<h5>` header which is close to smallest
 ###### This is a `<h6>` header which is the smallest
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
